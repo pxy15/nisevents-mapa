@@ -6,7 +6,7 @@ Cilj projekta je da se ova mapa integriše na sajt [NišEvent](https://nisevents
 
 # Sadržaj 
 
-Priložena su 4 dokumenta:
+Priložena su 5 dokumenta:
 - index.html - za pregleg kako mapa izgleda
 - style.css - takođe samo za vizuelni prikaz mape
 - script.js - u njemu se nalazi kod potreban za integraciju projekta
@@ -16,8 +16,8 @@ Priložena su 4 dokumenta:
 # Integracija
 
 1. Unutar postojećeg html fajla učitati Leaflet biblioteku CSS i JavaScript 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 2. Dodati elemente iz *index.html* i *style.css* označene sa VAZNO
 
