@@ -1,4 +1,4 @@
-const mapa = L.map('map').setView([43.3209, 21.8958],14);
+let mapa = L.map('map').setView([43.3209, 21.8958],14);
 
 L.tileLayer(
     'https://basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}.png?key=cb1_4ysw_1_45f4f123ca1beb59a664aa54',
