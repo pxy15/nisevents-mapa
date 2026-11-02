@@ -1,0 +1,66 @@
+[
+    {
+        "naziv": "Uživo Muzika",
+        "lokacija": "Kafana Ognjište",
+        "kategorija": "Muzika",
+        "cena": 0,
+        "sirina": 43.31061630509188, 
+        "duzina":  21.932081868307126
+    },
+    {
+        "naziv": "Izložba Pasa",
+        "lokacija": "Park Čair",
+        "kategorija": "Zabava",
+        "cena": 500,
+        "sirina": 43.31526974520686,
+        "duzina": 21.905242574187454
+    },
+    {
+        "naziv": "Predstava",
+        "lokacija": "Narodno pozorište Niš",
+        "kategorija": "Pozorište",
+        "cena": 400,
+        "sirina": 43.32021262608499, 
+        "duzina": 21.89985200610289
+    },
+    {
+        "naziv": "Žurka",
+        "lokacija": "Tarapanna",
+        "kategorija": "Žurka",
+        "cena": 0,
+        "sirina": 43.32150247177288, 
+        "duzina": 21.89554804985588
+    },
+    {
+        "naziv": "Pub Kviz",
+        "lokacija": "The Hub",
+        "kategorija": "Zabava",
+        "cena": 250,
+        "sirina": 43.32012652811802, 
+        "duzina": 21.898491943919225
+    },
+    {
+        "naziv": "Humanitarna Predstava",
+        "lokacija": "Narodno pozorište Niš",
+        "kategorija": "Pozorište",
+        "cena": 0,
+        "sirina": 43.32021262608499, 
+        "duzina": 21.89985200610289 
+    },
+    {
+        "naziv": "Aca Lukas",
+        "lokacija": "Hala Čair",
+        "kategorija": "Muzika",
+        "cena": 1500,
+        "sirina": 43.3167848011297,
+        "duzina": 21.907746768307444
+    },
+    {
+        "naziv": "Crtanje",
+        "lokacija": "Fićka",
+        "kategorija": "Zabava",
+        "cena": 200,
+        "sirina": 43.318211229327716, 
+        "duzina": 21.9053457836497
+    }
+]
