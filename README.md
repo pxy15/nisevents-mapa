@@ -16,9 +16,8 @@ Priložena su 5 dokumenta:
 # Integracija
 
 1. Unutar postojećeg html fajla učitati Leaflet biblioteku CSS i JavaScript 
-    > <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    > link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"> 
     > <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
 2. Dodati elemente iz *index.html* i *style.css* označene sa VAZNO
 
 3. Ubaciti sadržaj iz *script.js* u postojeći projekat
